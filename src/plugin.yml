@@ -1,0 +1,7 @@
+name: ExtraEnchantments
+description: Brings more enchantments into Minecraft including enchantments for combat, mining and armor
+main: com.connorlinfoot.extraenchantments.Main
+version: 0.1
+commands:
+  ee:
+    description: The one and only command
